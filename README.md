@@ -1,7 +1,7 @@
 ## Hi there! I'm Austin👋
 
 - 🧑‍🎓 Year 12 student
-- 🏫 I currently attend St Georges AGS
+- 🏫 Attending St Georges AGS
 - 🌐 Enjoy front-end development
-- 🐍 Starting to be more ok with Python's meaningful indentation...
+- 🐍 Python isn't too bad, but I'm still partial to curly brackets
 - 🌴 Love the beach and the outdoors
