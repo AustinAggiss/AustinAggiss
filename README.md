@@ -1,7 +1,7 @@
 ## Hi there! I'm Austin👋
 
-- 🧑‍🎓 Graduated Year 12 student
-- 🏫 Graduated St Georges AGS
+- 🧑‍🎓 Graduated Year 12 @ St Georges AGS
+- 🏫 Studying Computer Science @ ECU
 - 🌐 Enjoy front-end development
-- 🐍 Python isn't too bad, but I'm still partial to curly brackets
+- 🐍 Starting to appreciate Python's tricks
 - 🌴 Love the beach and the outdoors
